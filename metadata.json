@@ -1,0 +1,5 @@
+{
+  "name": "Vovo - Ride Hailing & Services",
+  "description": "A comprehensive ride-hailing and urban services application featuring ride booking, parcel delivery, and more.",
+  "requestFramePermissions": ["geolocation"]
+}

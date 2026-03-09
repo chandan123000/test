@@ -1,0 +1,96 @@
+import { 
+  Home, 
+  History, 
+  User, 
+  Package, 
+  Train, 
+  Compass, 
+  Search, 
+  Bell, 
+  Menu, 
+  MapPin, 
+  ChevronRight, 
+  Bike, 
+  Car, 
+  LayoutGrid, 
+  Clock, 
+  Star, 
+  Phone, 
+  MessageSquare, 
+  Receipt, 
+  Wallet, 
+  HelpCircle, 
+  Shield, 
+  Share2, 
+  Gift, 
+  Ticket, 
+  Coins, 
+  FileText, 
+  Settings, 
+  ArrowLeft, 
+  Info, 
+  LogOut, 
+  UserMinus, 
+  Mic, 
+  BadgeCheck, 
+  Lock, 
+  BookOpen, 
+  MessagesSquare, 
+  TrendingUp, 
+  CreditCard,
+  Mail
+} from 'lucide-react';
+
+export type Screen = 
+  | 'home' 
+  | 'activity'
+  | 'wallet'
+  | 'ride-selection' 
+  | 'profile' 
+  | 'ride-details' 
+  | 'settings' 
+  | 'help-center' 
+  | 'document-centre';
+
+export const ICONS = {
+  Home,
+  History,
+  User,
+  Package,
+  Train,
+  Compass,
+  Search,
+  Bell,
+  Menu,
+  MapPin,
+  ChevronRight,
+  Bike,
+  Car,
+  LayoutGrid,
+  Clock,
+  Star,
+  Phone,
+  MessageSquare,
+  Receipt,
+  Wallet,
+  HelpCircle,
+  Shield,
+  Share2,
+  Gift,
+  Ticket,
+  Coins,
+  FileText,
+  Settings,
+  ArrowLeft,
+  Info,
+  LogOut,
+  UserMinus,
+  Mic,
+  BadgeCheck,
+  Lock,
+  BookOpen,
+  MessagesSquare,
+  TrendingUp,
+  CreditCard,
+  Mail
+};
